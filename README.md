@@ -83,3 +83,4 @@ Expand the classic pizza category by introducing new classic pizza options or va
  Review the performance of the lowest revenue pizzas, such as The Brie Carrie Pizza. Assess whether it's worth reimagining these items or discontinuing them from the menu.
 
  ### 5) Inventory Planning:
+ Plan inventory management strategies to meet the demand for popular pizza options during peak times, ensuring no stockouts or delays.
