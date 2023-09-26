@@ -2,7 +2,8 @@
 
 
 
-![piza2](https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/8cb31a6d-36c4-4ff5-9b34-13d3c03b1a8b)
+![image](https://github.com/aayushkataria123/Machine-Learning-Project/assets/137820574/07dd325f-07fd-4ed6-8672-d2556ae46609)
+
 
 
  
